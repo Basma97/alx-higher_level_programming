@@ -4,5 +4,4 @@ def print_matrix_integer(matrix=[[]]):
         return None
     for i in matrix:
         for x in i:
-            print ("{:d}".format(x), end=" ")
-        print ()
+            print ("{:d}".format(x), end=" " if x < len(i-1) else end = "\n")
