@@ -5,6 +5,6 @@
 class squre:
     """define a square"""
 
-    def ___init___(self, size):
+    def __init__(self, size):
         """constructor"""
         self __size = size
