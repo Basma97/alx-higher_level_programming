@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+""" define square"""
 class Square:
-   """ 'python3 -c 'print(__import__("my_module").MyClass.__doc__) """
+   """ square class"""
     pass
